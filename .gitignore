@@ -15,6 +15,7 @@ out/
 *.iws
 *.iml
 *.ipr
+*.zip
 
 ## MAC ##
 .DS_Store

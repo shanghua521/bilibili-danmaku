@@ -2,7 +2,7 @@
     <id>com.wang.bilibili.danmaku</id>
     <name>bilibili danmaku</name>
     <version>1.0</version>
-    <vendor email="shanghua714@gmail.com" url="">shanghua</vendor>
+    <vendor email="shanghua714@gmail.com" url="https://github.com/shanghua521/bilibili-danmaku">shanghua</vendor>
 
     <description><![CDATA[
         这是一个 bilibili 弹幕插件，方便直播的时候看弹幕用，这是一个 bilibili 弹幕插件，方便直播的时候看弹幕用<br>
