@@ -1,15 +1,16 @@
 <idea-plugin>
     <id>com.wang.bilibili.danmaku</id>
-    <name>bilibili danmaku</name>
-    <version>1.0</version>
+    <name>Bilibili Danmaku</name>
+    <version>1.1</version>
     <vendor email="shanghua714@gmail.com" url="https://github.com/shanghua521/bilibili-danmaku">shanghua</vendor>
 
     <description><![CDATA[
-        这是一个 bilibili 弹幕插件，方便直播的时候看弹幕用，这是一个 bilibili 弹幕插件，方便直播的时候看弹幕用<br>
+        This is a bilibili barrage plug-in, which is convenient for watching barrage during live broadcast
         ]]></description>
 
     <change-notes><![CDATA[
         <em>第一个版本</em>
+        <em>chang description</em>
         ]]>
   </change-notes>
 
